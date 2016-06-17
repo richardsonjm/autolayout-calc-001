@@ -450,6 +450,7 @@
 				GCC_PREFIX_HEADER = "Open-Me/Open-Me-Prefix.pch";
 				INFOPLIST_FILE = "Open-Me/Open-Me-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -463,6 +464,7 @@
 				GCC_PREFIX_HEADER = "Open-Me/Open-Me-Prefix.pch";
 				INFOPLIST_FILE = "Open-Me/Open-Me-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

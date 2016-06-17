@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface FISViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIStackView *numberPad;
 
 @end
